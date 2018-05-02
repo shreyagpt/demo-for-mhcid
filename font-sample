@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style> 
+p.serif {
+font.family: "Times New Roman", Times, serif;
+}
+p.sanserif {
+font.family: Arial, Helvetica, sans-serif;
+}
+</style>
+</head>
+<body>
+<h1> Let's Talk About Dogs </h1>
+<p class="serif"> I believe American Eskimos are the best dogs. </p>
+<p class="sanserif"> This is another sentence saying American Eskimos are great dogs.</p>
+</body>
+</html>
